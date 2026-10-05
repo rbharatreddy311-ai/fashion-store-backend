@@ -1,0 +1,202 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bharat Reddy",
+      "email": "bharat311@gmail.com",
+      "password": "bharat123"
+    },
+    {
+      "id": 2,
+      "name": "Rohit",
+      "email": "rohith05@gmail.com",
+      "password": "Rohit1234"
+    },
+    {
+      "id": 3,
+      "name": "Shankar",
+      "email": "shankar10@gmail.com",
+      "password": "shankar12345"
+    },
+    {
+      "name": "bharat",
+      "email": "bharat@gmail.com",
+      "password": "bharat321",
+      "id": 4
+    },
+    {
+      "name": "Bharat Reddy",
+      "email": "rbharat1@gmail.com",
+      "password": "bharat123",
+      "id": 5
+    },
+    {
+      "name": "Bharat Reddy",
+      "email": "bharat12@gmail.com",
+      "password": "bharat321",
+      "id": 6
+    },
+    {
+      "name": "Bharat Reddy",
+      "email": "bharat123@gmail.com",
+      "password": "bharat123",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "id": 11,
+      "name": "Saffron Aari Embroidered Kaftan Dress",
+      "brand": "North & Loom",
+      "category": "Dresses",
+      "budget": "Medium",
+      "price": 1699,
+      "rating": 4.6,
+      "size": "S, M, L, XL",
+      "color": "Sage Green",
+      "material": "Linen Blend",
+      "image": "https://images.unsplash.com/photo-1605763240000-7e93b172d754?w=800",
+      "description": "Saffron Aari Kaftan: a breezy mustard maxi dress"
+    },
+    {
+      "id": 12,
+      "name": "Oxford White Shirt",
+      "brand": "Urban Thread",
+      "category": "Shirts",
+      "budget": "Medium",
+      "price": 1399,
+      "rating": 4.5,
+      "size": "S, M, L, XL",
+      "color": "Sky Blue",
+      "material": "Cotton",
+      "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=800",
+      "description": "A polished cotton Oxford shirt designed for workdays, weekends and everything between."
+    },
+    {
+      "id": 13,
+      "name": "Satin Slip Dress",
+      "brand": "Luna Edit",
+      "category": "Dresses",
+      "budget": "High",
+      "price": 2899,
+      "rating": 4.8,
+      "size": "XS, S, M, L",
+      "color": "Champagne",
+      "material": "Satin",
+      "image": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
+      "description": "An elegant satin slip dress with a fluid drape for evenings and special occasions."
+    },
+    {
+      "id": 14,
+      "name": "Everyday Midi Dress",
+      "brand": "Bloom & Co",
+      "category": "Dresses",
+      "budget": "Medium",
+      "price": 1999,
+      "rating": 4.6,
+      "size": "XS, S, M, L, XL",
+      "color": "Olive",
+      "material": "Cotton Blend",
+      "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800",
+      "description": "An easy midi dress with a flattering shape made for everyday plans."
+    },
+    {
+      "id": 15,
+      "name": "torn Denim",
+      "brand": "Blue Lane",
+      "category": "Jeans",
+      "budget": "Medium",
+      "price": 2199,
+      "rating": 4.7,
+      "size": "28, 30, 32, 34, 36",
+      "color": "Washed Blue",
+      "material": "Denim",
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800",
+      "description": "Relaxed wide-leg denim with a vintage wash and comfortable everyday fit."
+    },
+    {
+      "id": 16,
+      "name": "Classic Straight Jeans",
+      "brand": "Blue Lane",
+      "category": "Jeans",
+      "budget": "Medium",
+      "price": 1899,
+      "rating": 4.5,
+      "size": "28, 30, 32, 34, 36",
+      "color": "Dark Blue",
+      "material": "Stretch Denim",
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "description": "A timeless straight-leg pair with subtle stretch for all-day comfort."
+    },
+    {
+      "id": 18,
+      "name": "Relaxed Cargo Jeans",
+      "brand": "North & Loom",
+      "category": "Jackets",
+      "budget": "High",
+      "price": 3999,
+      "rating": 4.7,
+      "size": "S, M, L, XL",
+      "color": "Black",
+      "material": "Nylon",
+      "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?w=800",
+      "description": "A clean, lightweight puffer designed for warmth without the bulk."
+    },
+    {
+      "id": 19,
+      "name": "Striped Relaxed Shirt",
+      "brand": "Coastline",
+      "category": "Shirts",
+      "budget": "Low",
+      "price": 999,
+      "rating": 4.3,
+      "size": "S, M, L, XL",
+      "color": "Blue & White",
+      "material": "Cotton",
+      "image": "https://images.unsplash.com/photo-1626497764746-6dc36546b388?w=800",
+      "description": "A relaxed striped shirt that adds an easy coastal feel to casual outfits."
+    },
+    {
+      "id": 20,
+      "name": "Pleated Party Dress",
+      "brand": "Luna Edit",
+      "category": "Dresses",
+      "budget": "High",
+      "price": 3299,
+      "rating": 4.8,
+      "size": "XS, S, M, L",
+      "color": "Black",
+      "material": "Polyester Blend",
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
+      "description": "A refined pleated dress with movement and understated evening elegance."
+    },
+    {
+      "id": 21,
+      "name": "Relaxed Blue Denim Jeans",
+      "brand": "Street Fold",
+      "category": "Jeans",
+      "budget": "Medium",
+      "price": 2299,
+      "rating": 4.5,
+      "size": "30, 32, 34, 36",
+      "color": "Charcoal",
+      "material": "Denim",
+      "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
+      "description": "Relaxed cargo-style denim with utility pockets and a contemporary fit."
+    },
+    {
+      "id": 22,
+      "name": "Suede Overshirt Jacket",
+      "brand": "Roadster Line",
+      "category": "Jackets",
+      "budget": "High",
+      "price": 4999,
+      "rating": 4.6,
+      "size": "M, L, XL",
+      "color": "Tan",
+      "material": "Suede Finish",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "description": "A sophisticated overshirt jacket with a soft suede finish and clean lines."
+    }
+  ]
+}
